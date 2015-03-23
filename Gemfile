@@ -13,3 +13,8 @@ gem 'oj' # faster JS compiles
 
 gem 'middleman-search_engine_sitemap'
 gem 'middleman-minify-html'
+
+gem 'puma'
+gem 'rack-contrib'
+gem 'rack-ssl'
+gem 'rack-cache'
