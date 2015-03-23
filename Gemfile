@@ -7,3 +7,9 @@ gem "middleman-blog", "~> 3.5.3"
 
 # For feed.xml.builder
 gem "builder", "~> 3.0"
+
+gem 'therubyracer' # faster JS compiles
+gem 'oj' # faster JS compiles
+
+gem 'middleman-search_engine_sitemap'
+gem 'middleman-minify-html'
